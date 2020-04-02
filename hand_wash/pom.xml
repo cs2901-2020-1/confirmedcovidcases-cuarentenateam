@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>cs_utec.cs2901</groupId>
-  <artifactId>first_mvn_project</artifactId>
+  <artifactId>hand_wash</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>first_mvn_project</name>
+  <name>hand_wash</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
